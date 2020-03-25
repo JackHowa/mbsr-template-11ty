@@ -1,0 +1,12 @@
+<ol>
+    <li>
+        <h2>Week 1</h2>
+        <ul>
+            {% for reading in collections.readings %}
+                <li>
+                    <h3><a href="{{ reading.url }}">{{ reading.data.pageTitle }}</a></h3>
+                </li>
+            {% endfor %}
+        </ul>
+    </li>
+</ol>
