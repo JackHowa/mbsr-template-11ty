@@ -1,19 +1,13 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta charset="utf-8">
-        <meta name="Description" content="{{ description }}" />
-        <title>Insight Center - Readings</title>
-    </head>
-    <body>
-    <article>
+---
+layout: default
+pageClass: posts
+---
 
-        <h1>{{ pageTitle }}</h1>
+<section>
 
-        {{ content }}
+    <h1 class="heading">{{ pageTitle }}</h1>
 
-        <small>{{ attribution }}<small>
-    </article>
-    </body>
-</html>
+    {{ content }}
+
+    <small>{{ attribution }}<small>
+</section>
