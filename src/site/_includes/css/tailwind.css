@@ -32,18 +32,20 @@ h1.heading {
   Base styles for links
 */
 a {
-  @apply border-b-2;
-  @apply border-teal-400;
+  /* @apply border-b-2; */
+  /* @apply border-teal-400; */
 }
 a:hover,
 a:focus {
- @apply border-b-2;
- @apply border-teal-200;
+  /* @apply text-gray-100; */
+ /* @apply border-b-2;
+ /* @apply border-teal-200; */ 
 }
-a.naked-link:link,
-a.naked-link:visited {
-  @apply border-0;
-}
+
+/* a.naked-link:link,
+a.naked-link:visited { */
+  /* @apply border-0; */
+/* } */
 
 .content ul,
 .content ol {
@@ -68,20 +70,20 @@ code {
 /*
   Navigation links
 */
-.nav-tab {
+
+/* .nav-tab {
   @apply inline-block;
-  @apply text-white;
-  @apply font-semibold;
   @apply px-4;
   @apply py-2;
-  @apply border-b-0;
-  @apply rounded;
-}
-.nav-tab:hover {
-  @apply bg-white;
-  @apply text-teal-500;
-  @apply border-b-0;
-}
+  @apply border-solid;
+  @apply border-gray-700;
+  @apply border-b;
+}  */
+/* .nav-tab:hover {
+  /* @apply bg-white; */
+  /* @apply text-teal-500; */
+  /* @apply border-b-0; */
+/* } */
 
 
 .filter-bw-800 {
