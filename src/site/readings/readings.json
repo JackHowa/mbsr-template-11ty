@@ -1,0 +1,4 @@
+{
+    "layout": "layouts/readings.liquid",
+    "tags": ["readings"]
+}
