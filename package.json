@@ -1,13 +1,20 @@
 {
-  "name": "ElevenTail",
+  "name": "MBSR Template",
   "version": "0.1.0",
-  "description": "A project scaffold for quick-starting a site with Eleventy and TailwindCSS",
-  "author": "Phil Hawksworth",
+  "description": "A template website for MBSR curriculum",
+  "author": "Jack Howard <jackhowaa@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/philhawksworth/eleventail"
   },
+  "keywords": [
+    "MBSR",
+    "Mindfulness"
+  ],
+  "contributors": [
+    "Phil Hawksworth"
+  ],
   "scripts": {
     "build": "npm-run-all build:css build:html",
     "build:css": "postcss src/site/_includes/css/tailwind.css -o src/site/css/styles.css",
