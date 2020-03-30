@@ -52,12 +52,14 @@ a.naked-link:visited { */
   @apply my-6;
 }
 .content li {
-  @apply list-disc;
   @apply ml-6;
 }
 .content ol li {
-  @apply list-decimal;
   @apply pl-2;
+}
+
+ul > li {
+  @apply list-disc;
 }
 
 code {

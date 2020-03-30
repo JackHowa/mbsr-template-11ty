@@ -3,8 +3,8 @@
         <h2>Week 1</h2>
         <ul>
             {% for reading in collections.readings %}
-                <li>
-                    <h3><a href="{{ reading.url }}">{{ reading.data.pageTitle }}</a></h3>
+                <li class="p-1">
+                    <a href="{{ reading.url }}"><h3>{{ reading.data.pageTitle }}</h3></a>
                 </li>
             {% endfor %}
         </ul>
