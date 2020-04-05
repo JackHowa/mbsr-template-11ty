@@ -2,9 +2,8 @@
 pageTitle: Begin It
 description: Goethe's couplet's meant to inspire. All about beginnings.
 attribution: Goethe
-
-# could be week 0 ...
-weekNumber: 1
+weekNumber: 0
+tags: ['week0']
 
 ---
 

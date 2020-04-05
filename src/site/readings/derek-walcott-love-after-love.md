@@ -3,6 +3,7 @@ pageTitle: Love After Love
 weekNumber: 1
 description: A poem from Derek Walcott from Collected Poems about enjoying life.
 attribution: Derek Walcott from Collected Poems 1948-1984
+tags: ['week1']
 # todo: add a double paragraph 
 # have tried double space, / and two spaces after a line
 ---
