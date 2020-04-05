@@ -4,6 +4,7 @@ weekNumber: 1
 description: A poem from Condensed Chicken Soup for the Soul via Robert J. Hastings, Jack Canfield, Mark Victor Hansen and Patty Hansen about meaning in life.
 attribution: from Condensed Chicken Soup for the Soul Robert J. Hastings Copyright 1996 by Jack Canfield, Mark Victor Hansen and Patty Hansen
 tags: ['week1']
+title: The Station from Condensed Chicken Soup
 
 ---
 Tucked away in our subconscious is an idyllic vision. We are traveling by train. Out the windows, we drink in the passing scenes of children waving at a crossing, cattle grazing on a distant hillside, row upon row of corn and wheat, flatlands and valleys, mountains and rolling hillsides and city skylines.

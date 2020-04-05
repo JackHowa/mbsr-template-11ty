@@ -1,5 +1,6 @@
 ---
 pageTitle: Begin It
+title: Goethe's couplet Begin It
 description: Goethe's couplet's meant to inspire. All about beginnings.
 attribution: Goethe
 weekNumber: 0

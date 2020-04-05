@@ -1,5 +1,6 @@
 ---
 pageTitle: To Be Alive
+title: DH Lawrence's To Be Alive
 description: Prose from DH Lawrence called To Be Alive
 weekNumber: 0
 attribution: D.H. Lawrence in Apocalypse

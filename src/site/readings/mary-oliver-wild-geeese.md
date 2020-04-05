@@ -1,5 +1,6 @@
 ---
 pageTitle: Wild Geese
+title: Wild Geese poem from Mary Oliver
 attribution: from Collected Poems by Mary Oliver
 description: A whimsical poem about being good called Wild Geese, written by Mary Oliver.
 weekNumber: 1

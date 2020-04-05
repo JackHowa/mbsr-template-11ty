@@ -1,5 +1,6 @@
 ---
 pageTitle: Love After Love
+title: Derek Walcott's poem Love After Love
 weekNumber: 1
 description: A poem from Derek Walcott from Collected Poems about enjoying life.
 attribution: Derek Walcott from Collected Poems 1948-1984
