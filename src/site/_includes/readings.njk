@@ -1,6 +1,6 @@
 <ol>
     <li>
-        <h2>Intro Material</h2>
+    <h2>Intro Material</h2>
         <ul>
             {% for reading in collections.week0 %}
                 <li class="p-1">
@@ -10,9 +10,19 @@
         </ul>
     </li>
     <li>
-        <h2>Week 1</h2>
+        <h2>Week 1: Tasting Your Life</h2>
         <ul>
             {% for reading in collections.week1 %}
+                <li class="p-1">
+                    <a class="flex flex-1" href="{{ reading.url }}"><h3>{{ reading.data.pageTitle }}</h3></a>
+                </li>
+            {% endfor %}
+        </ul>
+    </li>
+    <li>
+        <h2>Week 2: Seeing and Believing</h2>
+        <ul>
+            {% for reading in collections.week2 %}
                 <li class="p-1">
                     <a class="flex flex-1" href="{{ reading.url }}"><h3>{{ reading.data.pageTitle }}</h3></a>
                 </li>
