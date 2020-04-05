@@ -29,4 +29,14 @@
             {% endfor %}
         </ul>
     </li>
+        <li>
+        <h2>Week 3: Scent of Your Roses</h2>
+        <ul>
+            {% for reading in collections.week3 %}
+                <li class="p-1">
+                    <a class="flex flex-1" href="{{ reading.url }}"><h3>{{ reading.data.pageTitle }}</h3></a>
+                </li>
+            {% endfor %}
+        </ul>
+    </li>
 </ol>
