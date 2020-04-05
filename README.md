@@ -1,4 +1,5 @@
 # MBSR Template
+
 This is for people who are signed up for Mindfullness-based Stress Reduction curriculum. The goal is for this to be a calm, informed and trustworthy tool to help people practice mindfulness. 
 
 # Status 
