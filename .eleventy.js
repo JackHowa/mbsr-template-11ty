@@ -7,7 +7,8 @@ module.exports = function(eleventyConfig) {
   // Layout aliases for convenience
   eleventyConfig.addLayoutAlias('default', 'layouts/base.njk');
   eleventyConfig.addLayoutAlias('conf', 'layouts/conf.njk');
-
+  eleventyConfig.addLayoutAlias('readings-text', 'layouts/readings-text.njk');
+  
   // a debug utility
   eleventyConfig.addFilter('dump', obj => {
     return util.inspect(obj)
