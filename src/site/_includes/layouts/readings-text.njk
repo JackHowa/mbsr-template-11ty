@@ -7,10 +7,10 @@ pageClass: posts
 
     <h1 class="heading">{{ pageTitle }}</h1>
 
-    {{ content }}
+    {{ content | safe }}
 
     <small>{{ attribution }}</small>
 </section>
 <nav class="pl-4">
-    <a href="/">{{ '&lt; ' }}Back To Home</a>
+    <a href="/">{{ '&lt; ' | safe }}Back To Home</a>
 </nav>

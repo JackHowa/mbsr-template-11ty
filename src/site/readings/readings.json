@@ -1,4 +1,4 @@
 {
-    "layout": "layouts/readings.liquid",
+    "layout": "layouts/readings-text.njk",
     "tags": ["readings"]
 }
