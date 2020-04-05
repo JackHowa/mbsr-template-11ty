@@ -16,9 +16,9 @@ This is for people who are signed up for Mindfullness-based Stress Reduction cur
   - [ ] Readings styled in calm and readable way
   - [ ] Minimal typos and formatting issues
 - [ ] All audio available published
-  - [ ] Upload to netlify large files (?)
-  - [ ] Split up links to large files by week 
-- [ ] Week breakdowns
+  - [ ] Able to stream on website
+  - [ ] Split up links to streams or podcast by week 
+- [ ] Week breakdowns (show readings and audio assignments for each week)
 
 # Design
 
@@ -34,7 +34,7 @@ This is for people who are signed up for Mindfullness-based Stress Reduction cur
 - [ ] Progress meter showing week and day, remembering that
   - [ ] Also, limitations on looking ahead for mindful, in-the-moment experience
   - [ ] Login and user memory 
-    - [ ] Possibly sign-in with apple for privacy with patient
+  - [ ] Possibly sign-in with apple for privacy with patient
 - [ ] Doodle calendar for scheduling when people would like to meet live
 - [ ] Would be cool to use eleventy or other static site generator for serverless architecture
   - Good for iteration and performance and fun 
