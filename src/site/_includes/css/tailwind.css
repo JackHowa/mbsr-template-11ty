@@ -9,7 +9,11 @@ section {
   @apply pb-10;
   @apply px-4;
 }
-p+p, p {
+p+p {
+  @apply mt-4;
+}
+
+p {
   @apply mt-4;
 }
 
