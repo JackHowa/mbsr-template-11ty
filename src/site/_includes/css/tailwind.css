@@ -13,9 +13,11 @@ p+p {
   @apply mt-4;
 }
 
+/* purgecss start ignore */
 p {
   @apply mt-4;
 }
+/* purgecss end ignore */
 
 /*
   Global headings conventions
