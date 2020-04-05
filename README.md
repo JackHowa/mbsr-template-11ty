@@ -1,4 +1,47 @@
-# ElevenTail
+# MBSR Template
+This is for people who are signed up for Mindfullness-based Stress Reduction curriculum. The goal is for this to be a calm, informed and trustworthy tool to help people practice mindfulness. 
+
+# Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05801d79-90c8-4122-ab81-9325167f753f/deploy-status)](https://app.netlify.com/sites/mbsr-template/deploys)
+
+[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fmbsr-template.netlify.com%2F)
+
+# Roadmap
+
+## MVP 
+
+- [ ] List of all readings available
+  - [ ] Readings Split By Week
+  - [ ] Readings styled in calm and readable way
+  - [ ] Minimal typos and formatting issues
+- [ ] All audio available published
+  - [ ] Upload to netlify large files (?)
+  - [ ] Split up links to large files by week 
+- [ ] Week breakdowns
+
+# Design
+
+- [UI and colors via Figma](https://www.figma.com/file/2y476nV5FdF8NI4QdEa0Ns/mbsr-2?node-id=1%3A127)
+
+# Features
+
+- [ ] Dark mode to reduce eye strain 
+- [ ] Offline storage of meditations and yoga audio for uninterrupted experience
+- [ ] Payment processing with apple pay integration for seamless sign-up 
+- [ ] Big, accessible buttons and text for participants with limited vision or dexterity 
+- [ ] Native tasteful notifications of updates for daily practice notifications 
+- [ ] Progress meter showing week and day, remembering that
+  - [ ] Also, limitations on looking ahead for mindful, in-the-moment experience
+  - [ ] Login and user memory 
+    - [ ] Possibly sign-in with apple for privacy with patient
+- [ ] Doodle calendar for scheduling when people would like to meet live
+- [ ] Would be cool to use eleventy or other static site generator for serverless architecture
+  - Good for iteration and performance and fun 
+
+
+
+# Credit: ElevenTail
 
 A project scaffold for quickly starting a site build with:
 
@@ -7,17 +50,6 @@ A project scaffold for quickly starting a site build with:
 - [PurgeCSS](https://www.purgecss.com/) for optimizing CSS output
 - [UglifyJS](https://www.npmjs.com/package/uglify-js) for a simple JS build pipeline
 - [Netlify CLI](https://www.npmjs.com/package/netlify-cli) for Netlify dev pipeline and local replication of prod environment
-
-
-![Deploy to Netlify](eleventail-screenshot.jpg)
-
-
-## Example
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4151ca40-1788-4959-9367-38ad71d11492/deploy-status)](https://app.netlify.com/sites/eleventail/deploys)
-
-https://eleventail.netlify.com
-
 
 ## Prerequisites
 
@@ -60,11 +92,3 @@ While running/developing locally, the `npm run start` command will recompile the
 ### Global CSS utilities.
 
 A small number of bespoke CSS rules are provided for efficiency of repeated or global classes. These reside in `src/site/_includes/css/tailwind.css`
-
-
-## Just clone and go
-
-You can also get started with your own copy of this site cloned to your GitHub account and deployed to [Netlify](http://netlify.com/?utm_source=github&utm_medium=eleventail-pnh&utm_campaign=devex) with a configured CI/CD pipeline and HTTPS by clicking the button below and following the instructions.
-
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventail)
