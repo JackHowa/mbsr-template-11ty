@@ -2,7 +2,7 @@
   "name": "mbsr-template",
   "version": "0.1.0",
   "description": "A template website for MBSR curriculum",
-  "author": "Jack Howard <jackhowaa@gmail.com>",
+  "author": "jackhowa",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -10,7 +10,8 @@
   },
   "keywords": [
     "MBSR",
-    "Mindfulness"
+    "Mindfulness",
+    "11ty"
   ],
   "contributors": [
     "Phil Hawksworth"
@@ -25,7 +26,7 @@
     "start": "npm run watch"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "^0.11.1",
     "@fullhuman/postcss-purgecss": "^1.3.0",
     "autoprefixer": "^9.7.2",
     "cssnano": "^4.1.10",
