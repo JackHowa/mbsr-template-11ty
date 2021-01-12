@@ -6,8 +6,6 @@ This is for people who are signed up for Mindfullness-based Stress Reduction cur
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e57df39c-f002-4a44-adba-7825f347a054/deploy-status)](https://app.netlify.com/sites/mbsr/deploys)
 
-[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fmbsr-template.netlify.com%2F)
-
 # Roadmap
 
 ## MVP 
