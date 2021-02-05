@@ -1,7 +1,7 @@
-/* purgecss start ignore */
-@tailwind  base;
-/* purgecss end ignore */
-
+/* these styles will be purged if not used */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /*
   Content sections conventions
 */
@@ -13,11 +13,9 @@ p+p {
   @apply mt-4;
 }
 
-/* purgecss start ignore */
 p {
   @apply mt-4;
 }
-/* purgecss end ignore */
 
 /*
   Global headings conventions
@@ -78,9 +76,3 @@ code {
 .mb--4 {
   margin-bottom: -1rem;
 }
-
-/* purgecss start ignore */
-@tailwind  components;
-/* purgecss end ignore */
-
-@tailwind utilities;
